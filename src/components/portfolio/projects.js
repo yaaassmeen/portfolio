@@ -33,7 +33,7 @@ const data = [
         image: pt,
         title: "Portfolio: React",
         github: 'https://github.com/yaaassmeen/portfolio',
-        demo: 'https://github.com/yaaassmeen/portfolio'
+        demo: 'https://yaaassmeen.github.io/portfolio/'
     },
     
     {
