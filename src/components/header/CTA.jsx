@@ -1,6 +1,6 @@
 import React from 'react';
 import './header.css';
-import CV from '../../assets/cv.pdf';
+import CV from '../../assets/Yasmeen_Mahilang_2025.pdf';
 
 const CTA = () => {
   return (
